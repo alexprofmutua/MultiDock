@@ -2,11 +2,11 @@
 
 Independent floating docks for macOS, built with Swift 6, AppKit, and SwiftUI. Runs locally with no accounts, telemetry, or third-party dependencies.
 
-<p>
-  <img src="Reports/compact-horizontal.png" alt="Compact horizontal dock" width="308">
-  <img src="Reports/compact-vertical.png" alt="Compact vertical dock" width="104">
-  <img src="Reports/blue-background.png" alt="Custom background and tinted icons" width="104">
-</p>
+![Three independently colored docks on a desktop: blue tools on the left, purple everyday apps at the bottom, and green utilities on the right](Reports/desktop-visible.png)
+
+A desktop demo captured on macOS. Each dock has its own position, orientation, and background color.
+
+With auto-hide enabled, docks disappear after the pointer leaves. Small colored reveal tabs remain at their edges; hover over or click a tab to bring its dock back. Tab colors can follow a shared theme or be customized separately for each dock.
 
 ## Features
 
