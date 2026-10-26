@@ -10,6 +10,14 @@ A desktop demo captured on macOS. Each dock has its own position, orientation, a
 
 With auto-hide enabled, docks disappear after the pointer leaves. Small colored reveal tabs remain at their edges; hover over or click a tab to bring its dock back. Tab colors can follow a shared theme or be customized separately for each dock.
 
+
+<details>
+<summary>Another layout: each dock moves independently</summary>
+
+![Alternate desktop layout with the green dock at the upper left, blue dock at the lower left, and purple dock at the lower right](Reports/desktop-alternate-layout.png)
+
+</details>
+
 ## Features
 
 - Multiple docks with independent placement, orientation, appearance, and saved layouts.
