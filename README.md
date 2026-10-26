@@ -6,6 +6,8 @@ Independent floating docks for macOS, built with Swift 6, AppKit, and SwiftUI. R
 
 A desktop demo captured on macOS. Each dock has its own position, orientation, and background color.
 
+![Auto-hidden docks leave blue and green vertical reveal tabs at the screen edges and a purple horizontal tab at the bottom](Reports/desktop-autohide.png)
+
 With auto-hide enabled, docks disappear after the pointer leaves. Small colored reveal tabs remain at their edges; hover over or click a tab to bring its dock back. Tab colors can follow a shared theme or be customized separately for each dock.
 
 ## Features
